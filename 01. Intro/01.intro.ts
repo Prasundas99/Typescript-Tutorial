@@ -6,6 +6,7 @@ let user = {
 console.log(user.name); // John
 console.log(user.age); // 30
 
+
 console.log("Hello World");
 
 /**

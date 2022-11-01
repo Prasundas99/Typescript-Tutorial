@@ -4,8 +4,5 @@ var user = {
 };
 console.log(user.name); // John
 console.log(user.age); // 30
+console.log(user.email); // undefined
 console.log("Hello World");
-/**
- * run tsc intro.ts
- * to compile the file to js
- */ 
