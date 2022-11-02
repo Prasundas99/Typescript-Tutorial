@@ -18,6 +18,9 @@ Official Documentation: https://www.typescriptlang.org/docs/home.html
     - [03.Tuples](02.%20Basics/03.Tuples.ts)
     - [04.Interfaces](02.%20Basics/04.Interfaces.ts)
     - [Interface vs Types](#differences-between-interface-and-type)
+    - [05.Getters and Setters](02.%20Basics/05.Getters_Setters.ts)
+    - [06.Abstract Classes](02.%20Basics/06.AbstractClasses.ts)
+    - [07. Generics](03.Generics/01.Generics.ts)
 
 
 ## TypeScript Global installation
