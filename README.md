@@ -10,6 +10,12 @@ Official Documentation: https://www.typescriptlang.org/docs/home.html
 - [TypeScript Compiler](#typescript-compiler)
 - [TypeScript Compiler Options](#typescript-compiler-options)
 - [Introduction to TS code](01.%20Intro/)
+    - [01.Intro](01.%20Intro/01.intro.ts)
+    - [02.Variables](01.%20Intro/02.variables.ts)
+- [Basics](02.%20Basics/)
+    - [01.Functions](02.%20Basics/01.functions.ts)
+    - [02.Objects](02.%20Basics/02.objects.ts)
+    - [03.Tuples](02.%20Basics/03.Tuples.ts)
 
 
 ## TypeScript Global installation
