@@ -1,6 +1,7 @@
 # TypeScript-Tutorial
 
 This is a tutorial for TypeScript. It is a work in progress.
+
 Official Documentation: https://www.typescriptlang.org/docs/home.html
 
 ## Table of Contents
